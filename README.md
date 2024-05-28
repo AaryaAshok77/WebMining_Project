@@ -133,3 +133,7 @@ def vis_bargraph(dict):
 ## Results 📈
 
 The project outputs actionable posts grouped by topic and visualizes the distribution of these topics through word clouds and bar charts.
+
+## TEAM MEMBERS
+# Aarya Ashok K
+# Tejasv Goyal
